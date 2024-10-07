@@ -1,5 +1,5 @@
 APScheduler==3.7.0
-Authlib
+Authlib==0.15.4
 Babel==2.9.1
 Flask-BabelEx==0.9.4
 Flask-Bcrypt==0.7.1
